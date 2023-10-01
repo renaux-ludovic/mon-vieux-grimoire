@@ -1,0 +1,11 @@
+# Ignorer les fichiers de sauvegarde temporaires
+*~
+
+# Ignorer les fichiers de configuration VSC
+.vscode/
+
+# Ignorer les répertoires de dépendances
+node_modules/
+
+# Ignorer les fichiers d'environnement
+.env
